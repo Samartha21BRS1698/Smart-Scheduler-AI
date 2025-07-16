@@ -72,7 +72,7 @@ python test_agent.py
 ```
 Then speak:
 ```bash
-🎙️ "I want to schedule a meeting"
+ "I want to schedule a meeting"
 ```
 Or ask anything else:
 
@@ -88,6 +88,8 @@ Or ask anything else:
 
 ---
 ## Notes
+For first time users, it asks for authorization of Google account- just click Continue. It's completely safe.
+
 DO NOT commit credentials.json or token.json to GitHub
 
 Works offline for voice. Internet required only for:
